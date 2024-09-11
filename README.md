@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arish Maharjan</h1>
+<h1 align="center">Hi 👋, I'm Arish Maharjan(Alis)</h1>
 <h3 align="center">A keen learner, developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arish-mhrjn&label=Profile%20views&color=0e75b6&style=flat" alt="arish-mhrjn" /> </p>
